@@ -1,6 +1,12 @@
 # sitemap-analyzer
 Analyze a domain's sitemap and return the unique url count (including nested sitemaps)
 
+# Setup
+```
+git clone https://github.com/ssstonebraker/sitemap-analyzer
+cd sitemap-analyzer
+pip3 install requests
+```
 # Usage
 ```
 python3 sitemap-analyzer.py --domain whitehouse.gov
