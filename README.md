@@ -4,6 +4,11 @@ Analyze a domain's sitemap and return the unique url count (including nested sit
 # Usage
 ```
 python3 sitemap-analyzer.py --domain whitehouse.gov
+```
+
+# Example:
+```
+python3 sitemap-analyzer.py --domain whitehouse.gov
 2025-01-29 09:46:54,571 - INFO - Starting analysis for whitehouse.gov
 
 Sitemap Analysis Report
